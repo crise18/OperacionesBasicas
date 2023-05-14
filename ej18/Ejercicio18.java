@@ -49,7 +49,7 @@ public class Ejercicio18 {
         );
         System.out.println(
             "  identidad    Identidades Trigonométricas \n"
-        );
+        ); //Solo comentario para ver como se reconoce alguna modificacion
        
        //Seleccion de Operacion
         System.out.print("Ingresa tu selección (código):");
