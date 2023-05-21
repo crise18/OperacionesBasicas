@@ -1,4 +1,3 @@
-package Tarea.ej10;
 import java.util.Scanner;
 //import javax.lang.model.util.ElementScanner6;
 /**

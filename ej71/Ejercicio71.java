@@ -1,4 +1,5 @@
-package Tarea.ej7;
+package Tarea.ej71;
+
 import java.util.Random;
 import java.util.Scanner;
 /**
@@ -6,7 +7,7 @@ import java.util.Scanner;
  * @author crise
  * @author mariana.g
  */
-public class Ejercicio7 {
+public class Ejercicio71 {
     public static void main(String[] args) {
         //Objeto Scanner
         Scanner teclado = new Scanner(System.in);
